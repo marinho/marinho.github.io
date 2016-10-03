@@ -1,11 +1,11 @@
 {
   "vendor": {
-    "js": "/vendor.bundle.js"
+    "js": "Push  URL: /vendor.bundle.js"
   },
   "main": {
-    "js": "/main.bundle.js"
+    "js": "Push  URL: /main.bundle.js"
   },
   "polyfills": {
-    "js": "/polyfills.bundle.js"
+    "js": "Push  URL: /polyfills.bundle.js"
   }
 }
