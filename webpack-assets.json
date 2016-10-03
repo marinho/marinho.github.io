@@ -1,11 +1,11 @@
 {
   "vendor": {
-    "js": "/Push  URL: https://github.com/marinho/marinho.github.io.git/vendor.bundle.js"
+    "js": "/vendor.bundle.js"
   },
   "main": {
-    "js": "/Push  URL: https://github.com/marinho/marinho.github.io.git/main.bundle.js"
+    "js": "/main.bundle.js"
   },
   "polyfills": {
-    "js": "/Push  URL: https://github.com/marinho/marinho.github.io.git/polyfills.bundle.js"
+    "js": "/polyfills.bundle.js"
   }
 }
